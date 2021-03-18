@@ -1,0 +1,32 @@
+.body{
+    font-family: 'Redressed', cursive;
+    background-color: rgb(146, 77, 211);
+    }
+#clear{
+    margin: 10px;
+}
+.containers{
+    
+    background-color: rgb(238, 192, 9);
+    position: absolute;
+    color: black;
+    padding: 10px;
+    margin: 200px;
+    border-radius: 50px;
+}
+
+input{
+    width: 80%;
+    padding: 5px;
+    margin-top: 10px;
+    border: none;
+}
+
+input:focus{
+    outline: none;
+
+    }
+
+h1{
+    font-size: 40px;
+}
